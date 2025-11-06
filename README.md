@@ -63,6 +63,8 @@ THIN:
 END
 
 **Output:**  
+<img width="1919" height="1116" alt="Screenshot 2025-10-03 082936" src="https://github.com/user-attachments/assets/b31623b3-9474-4753-83be-5c144cbd8741" />
+
 
 <br>
 <br>
@@ -70,7 +72,9 @@ END
 
 
 
-**Manual Calculations:**  
+**Manual Calculations:** 
+<img width="1069" height="745" alt="image" src="https://github.com/user-attachments/assets/c247a026-2654-4134-a87f-8515a8314203" />
+
 
 <br>
 <br>
@@ -86,3 +90,6 @@ END
 **Result:**
 
 Thus the factorial of a number using 8051 keil was calculated and shown the output.
+
+
+

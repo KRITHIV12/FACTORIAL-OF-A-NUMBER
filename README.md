@@ -24,7 +24,6 @@ APPARATUS REQUIRED: Personal computer with Keil software
 •Increment i by 1.  
 
 • Output: Store or print the value of factorial.  
-
 • End
 
 **FLOW CHART:**
@@ -66,7 +65,6 @@ END
 <br>
 <br>
 <br>
-
 
 
 **Manual Calculations:** 

@@ -27,6 +27,7 @@ APPARATUS REQUIRED: Personal computer with Keil software
 • End
 
 **FLOW CHART:**
+
 <img width="261" height="308" alt="image" src="https://github.com/user-attachments/assets/bffe89f6-3ba9-4294-b817-8b545f680e66" />
 
 **Program:**
@@ -46,9 +47,7 @@ SJMP THIN
 FACTORIAL:DEC R0  
 
 CJNE R0,#01H,PRODUCT  
-
 SJMP THICK   
-
 PRODUCT:MOV B,R0  
 MUL AB  
 ACALL FACTORIAL  

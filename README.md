@@ -51,16 +51,13 @@ CJNE R0,#01H,PRODUCT
 SJMP THICK   
 
 PRODUCT:MOV B,R0  
-
 MUL AB  
-
 ACALL FACTORIAL  
-
 THICK: RET  
-
 THIN:  
-
 END
+
+
 
 **Output:**  
 <img width="1919" height="1116" alt="Screenshot 2025-10-03 082936" src="https://github.com/user-attachments/assets/b31623b3-9474-4753-83be-5c144cbd8741" />
